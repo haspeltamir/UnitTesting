@@ -1,47 +1,13 @@
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\bin\Debug\checkhw.exe.config
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\bin\Debug\checkhw.exe
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\bin\Debug\checkhw.pdb
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\bin\Debug\FontAwesome.Sharp.dll
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\obj\Debug\checkhw.csproj.AssemblyReference.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\obj\Debug\checkhw.csproj.SuggestedBindingRedirects.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\obj\Debug\checkhw.HomePage.resources
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\obj\Debug\checkhw.Properties.Resources.resources
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\obj\Debug\checkhw.csproj.GenerateResource.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\obj\Debug\checkhw.csproj.CoreCompileInputs.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\obj\Debug\checkhw.csproj.CopyComplete
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\obj\Debug\checkhw.exe
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\checkhw\checkhw\obj\Debug\checkhw.pdb
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\CheckHw\checkhw\obj\Debug\checkhw.Cp.resources
-C:\Users\User\Desktop\שנה ג\סימסטר א\אימות ובדיקות תוכנה\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\שנה ג\סימסטר א\אימות ובדיקות תוכנה\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.Cp.resources
-C:\Users\User\Desktop\שנה ג\סימסטר א\אימות ובדיקות תוכנה\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.HomePage.resources
-C:\Users\User\Desktop\שנה ג\סימסטר א\אימות ובדיקות תוכנה\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.Properties.Resources.resources
-C:\Users\User\Desktop\שנה ג\סימסטר א\אימות ובדיקות תוכנה\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.GenerateResource.cache
-C:\Users\User\Desktop\שנה ג\סימסטר א\אימות ובדיקות תוכנה\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.CoreCompileInputs.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.AssemblyReference.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.SuggestedBindingRedirects.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.Cp.resources
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.HomePage.resources
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.Properties.Resources.resources
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.GenerateResource.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.CoreCompileInputs.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\bin\Debug\checkhw.exe.config
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\bin\Debug\checkhw.exe
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\bin\Debug\checkhw.pdb
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\bin\Debug\FontAwesome.Sharp.dll
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.CopyComplete
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.exe
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\github hw\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.pdb
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.AssemblyReference.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.Cp.resources
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.HomePage.resources
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.Properties.Resources.resources
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.GenerateResource.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.CoreCompileInputs.cache
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\bin\Debug\checkhw.exe.config
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\bin\Debug\checkhw.exe
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\bin\Debug\checkhw.pdb
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\bin\Debug\FontAwesome.Sharp.dll
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.csproj.CopyComplete
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.exe
-C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\OS\UnitTesting\Project\moran GUI and class diagrams\userInterface\checkhw\checkhw\obj\Debug\checkhw.pdb
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\obj\Debug\checkhw.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\obj\Debug\checkhw.Cp.resources
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\obj\Debug\checkhw.HomePage.resources
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\obj\Debug\checkhw.Properties.Resources.resources
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\obj\Debug\checkhw.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\obj\Debug\checkhw.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\bin\Debug\checkhw.exe.config
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\bin\Debug\checkhw.exe
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\bin\Debug\checkhw.pdb
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\obj\Debug\checkhw.csproj.CopyComplete
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\obj\Debug\checkhw.exe
+C:\Users\user\OneDrive - Kinneret Academic College\שולחן העבודה\checkhw\checkhw\obj\Debug\checkhw.pdb
