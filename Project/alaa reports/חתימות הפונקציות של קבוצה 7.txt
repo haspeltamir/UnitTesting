@@ -1,6 +1,6 @@
 while a button of check pressed: 
 1.a form called reports.form created and we need to pass ref to studentlist in form
-	1.1)the display of data using datagridview item.
+	1.1)we display the data to the datagridview item.
 	1.2)in this form there is a function called : public void export_datatable_to_excel() . it extract a excel 
-            file of the datagrid view data into excel.
-	1.3)we have search option , u can navigate between the data and find what you searching for.
+            file of the datagrid view data into excel to a required destinaiton by the user.
+	1.3)we have search option , u can navigate between the data to find what you searching for.
