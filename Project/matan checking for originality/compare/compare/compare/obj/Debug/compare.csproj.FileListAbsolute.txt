@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\oiyljk\compare\compare\bin\Debug\compare.exe.config
+C:\Users\user\Desktop\oiyljk\compare\compare\bin\Debug\compare.exe
+C:\Users\user\Desktop\oiyljk\compare\compare\bin\Debug\compare.pdb
+C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.Form1.resources
+C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.Properties.Resources.resources
+C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.csproj.GenerateResource.cache
+C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.exe
+C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.pdb
