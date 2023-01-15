@@ -9,3 +9,20 @@ C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.csproj.GenerateRe
 C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.exe
 C:\Users\user\Desktop\oiyljk\compare\compare\obj\Debug\compare.pdb
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\bin\Debug\compare.exe.config
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\bin\Debug\compare.exe
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\bin\Debug\compare.pdb
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.Form1.resources
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.Form2.resources
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.exe
+C:\Users\User\OneDrive\Desktop\‏‏תיקיה חדשה (2)\UnitTesting\Project\matan checking for originality\compare\compare\compare\obj\Debug\compare.pdb

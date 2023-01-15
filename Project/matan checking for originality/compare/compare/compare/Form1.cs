@@ -28,7 +28,7 @@ namespace compare
             player.controls.stop();
             Form2 form2 = new Form2();  
             Compares compares = new Compares();
-            compares.compares("E:\\DRIVE\\OneDrive - Kinneret Academic College\\C#JAVATesting\\java Hw\\java Hw");
+            bool value = compares.compares("E:\\DRIVE\\OneDrive - Kinneret Academic College\\C#JAVATesting\\java Hw\\java Hw");
             form2.match = compares.match;
             this.Hide();
             form2.Show();

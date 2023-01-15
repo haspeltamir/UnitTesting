@@ -39,7 +39,7 @@ namespace compare
        /// </summary>
        /// <param name="filePath"></param>
                 
-        public void compares(string filePath)
+        public bool compares(string filePath)
         {
             
             files = Directory.GetDirectories(filePath).ToList();
@@ -170,6 +170,16 @@ namespace compare
                 {
                     equalslines.Add(stringBuilder.ToString());
                 }
+            }
+
+            if(match!= null)
+            {
+                return true;
+            }
+
+            else
+            {
+                return false;
             }
         }   
     }
