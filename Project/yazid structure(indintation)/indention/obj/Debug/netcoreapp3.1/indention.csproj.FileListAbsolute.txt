@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\bin\Debug\netcoreapp3.1\indention.exe
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\bin\Debug\netcoreapp3.1\indention.deps.json
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\bin\Debug\netcoreapp3.1\indention.runtimeconfig.json
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\bin\Debug\netcoreapp3.1\indention.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\bin\Debug\netcoreapp3.1\indention.dll
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\bin\Debug\netcoreapp3.1\indention.pdb
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\obj\Debug\netcoreapp3.1\indention.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\obj\Debug\netcoreapp3.1\indention.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\obj\Debug\netcoreapp3.1\indention.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\obj\Debug\netcoreapp3.1\indention.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\obj\Debug\netcoreapp3.1\indention.dll
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\obj\Debug\netcoreapp3.1\indention.pdb
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\indention\indention\obj\Debug\netcoreapp3.1\indention.genruntimeconfig.cache

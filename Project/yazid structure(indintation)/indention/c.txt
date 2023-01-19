@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main(void)
+{
+    int x = 5;   // Declare and initialize an integer variable
+
+    if (x > 0)   // Check if x is greater than 0
+    {
+        // If x is greater than 0, print a message
+        printf("x is a positive number.\n");
+    }
+    else    // Otherwise (if x is not greater than 0)
+    {
+        // If x is not greater than 0, print a different message
+        printf("x is not a positive number.\n");
+    }
+
+    return 0;
+}

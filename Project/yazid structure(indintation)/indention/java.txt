@@ -1,0 +1,16 @@
+List<Tuple<string, bool>> lines = new List<Tuple<string, bool>>();
+int previousIndentLevel = 0;
+foreach (Match indent in indents)
+    {
+          
+    int indentLevel = indent.Value.Length;
+
+    // Check if the indent level is correct
+    bool isCorrect = (indentLevel % 2 == 0) && (indentLevel >= previousIndentLevel);
+
+    // Add the line and its correct flag to the list
+    lines.Add(new Tuple<string, bool>(indent.Value, isCorrect));
+
+        // Update the previous indent level
+        previousIndentLevel = indentLevel;
+        }
