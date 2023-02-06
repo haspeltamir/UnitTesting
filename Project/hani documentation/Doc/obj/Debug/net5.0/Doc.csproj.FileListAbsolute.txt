@@ -1,0 +1,32 @@
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\bin\Debug\net5.0\Doc.exe
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\bin\Debug\net5.0\Doc.deps.json
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\bin\Debug\net5.0\Doc.runtimeconfig.json
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\bin\Debug\net5.0\Doc.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\bin\Debug\net5.0\Doc.dll
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\bin\Debug\net5.0\ref\Doc.dll
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\bin\Debug\net5.0\Doc.pdb
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\obj\Debug\net5.0\Doc.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\obj\Debug\net5.0\Doc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\obj\Debug\net5.0\Doc.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\obj\Debug\net5.0\Doc.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\obj\Debug\net5.0\Doc.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\obj\Debug\net5.0\Doc.dll
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\obj\Debug\net5.0\ref\Doc.dll
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\obj\Debug\net5.0\Doc.pdb
+C:\Users\lenovo\Desktop\מכללה\עתירות תוכנה יזיד\checkIndents\documentation\Doc\Doc\obj\Debug\net5.0\Doc.genruntimeconfig.cache
+C:\Users\Win10\Downloads\Doc\Doc\bin\Debug\net5.0\Doc.exe
+C:\Users\Win10\Downloads\Doc\Doc\bin\Debug\net5.0\Doc.deps.json
+C:\Users\Win10\Downloads\Doc\Doc\bin\Debug\net5.0\Doc.runtimeconfig.json
+C:\Users\Win10\Downloads\Doc\Doc\bin\Debug\net5.0\Doc.runtimeconfig.dev.json
+C:\Users\Win10\Downloads\Doc\Doc\bin\Debug\net5.0\Doc.dll
+C:\Users\Win10\Downloads\Doc\Doc\bin\Debug\net5.0\Doc.pdb
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\Doc.csproj.AssemblyReference.cache
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\Doc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\Doc.AssemblyInfoInputs.cache
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\Doc.AssemblyInfo.cs
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\Doc.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\Doc.dll
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\ref\Doc.dll
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\Doc.pdb
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\Doc.genruntimeconfig.cache
+C:\Users\Win10\Downloads\Doc\Doc\obj\Debug\net5.0\refint\Doc.dll
